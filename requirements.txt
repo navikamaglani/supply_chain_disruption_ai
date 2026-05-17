@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+scikit-learn
+xgboost
+lightgbm
+shap
+streamlit
+plotly
+matplotlib
+python-dotenv

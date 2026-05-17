@@ -1,0 +1,7 @@
+port_name,state,lat,lon,active_alert_count,warning_count,watch_count,advisory_count,severe_weather_flag
+Los Angeles,CA,33.7405,-118.2775,40,10,0,20,1
+Long Beach,CA,33.7542,-118.2165,40,10,0,20,1
+New York/New Jersey,NY,40.6681,-74.0451,2,0,0,0,0
+Savannah,GA,32.0809,-81.0912,1,0,0,0,0
+Houston,TX,29.7604,-95.3698,16,8,6,1,0
+Seattle/Tacoma,WA,47.2529,-122.4443,4,1,0,3,1
